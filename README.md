@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Senuja 
-- 🌱 I’m currently learning React,Js,tailwind,Php
+- 🌱 I’m currently learning React,Js,tailwind,Spring boot,Anugular
